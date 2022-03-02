@@ -1,1 +1,1 @@
-All filesn directories with coma
+Magic file
