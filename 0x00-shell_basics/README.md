@@ -1,1 +1,1 @@
-changes working directory to previous one
+List all files  and the /boot directory
