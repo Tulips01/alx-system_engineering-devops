@@ -1,1 +1,1 @@
-script that changes the owner of the file
+sscript that will play the StarWars IV episode in the terminal

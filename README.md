@@ -1,1 +1,1 @@
-shell basics
+Create a magic file
