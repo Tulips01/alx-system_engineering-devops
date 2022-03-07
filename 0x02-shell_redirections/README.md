@@ -1,1 +1,1 @@
-Display the content of 2 fieles
+Display the last 10 lines of
